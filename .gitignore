@@ -1,0 +1,10 @@
+Column.v2i.yolov8/train
+
+Column.v2i.yolov8/valid
+
+runs/
+
+__pycache__/
+*.pyc
+
+*.pt
